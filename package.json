@@ -1,6 +1,6 @@
 {
   "name": "@tagplay/persist-asset",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Some wrapper code for uploading to Cloudinary",
   "main": "index.js",
   "scripts": {
